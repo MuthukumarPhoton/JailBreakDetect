@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'JailBreakDetect'
+  s.name             = 'JailBreakDetectLib'
   s.version          = '2.0'
   s.summary          = 'Jailbreak Detection for iOS device'
   s.description      = 'Jailbreak Detection for iOS device, detection work with "xcon" installed!.'
